@@ -1,6 +1,7 @@
 -👋 Hi, I’m @Shreya
 
 -👩‍🎓 Education: B.Tech in Computer Science & Engineering
+
 -👀 Interests: Data Science, AI, Machine Learning, and Technology
 -🌱 Currently Learning: Advanced Data Science concepts (Python, Machine Learning, Deep Learning)
 -💻 Skills: Python, SQL, Machine Learning, Data Visualization, Web Development
